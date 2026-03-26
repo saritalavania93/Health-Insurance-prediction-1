@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-MODEL_PATH = "best_insurance_model.joblib"
+MODEL_PATH = "best_insurance_model-3.joblib"
 
 st.title("💊 Medical Insurance Cost Prediction App")
 st.write("Enter the details below to predict insurance charges.")
